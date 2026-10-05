@@ -1,2 +1,4 @@
 env/
 *.png
+omarchy_venv/
+mise.toml
